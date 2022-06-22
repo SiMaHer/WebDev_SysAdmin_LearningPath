@@ -6,6 +6,7 @@ The main idea is spend some time to reconsider what I have learned by writing th
 This is not intended to be a fully fledged tutorial on either of the presented topics for anyone else. However, I am happy to share these notes, in case people might find them useful.
 None of the presented information or examples have been compiled by myself, but a rather a collection of information and examples I found elsewhere. I will do by best to cite the original documents.
 The documentation itself is created using [Docsify](https://docsify.js.org/#/), allowing to create a beautiful documentation using simple markdown files.
+You find the complete documentation [here](https://simaher.github.io/WebDev_SysAdmin_LearningPath/#/)
 
 ## What I want to cover / achieve
 This learning path is divided into two parts. On the one hand, I want to learn the basics of system administration. Here, the main goal is to be able to set up simple developments using [Vagrant](https://www.vagrantup.com/), as well as to learn the basics of self hosting with the help of [Docker](https://www.docker.com/) and [Ansible](https://www.ansible.com/).
