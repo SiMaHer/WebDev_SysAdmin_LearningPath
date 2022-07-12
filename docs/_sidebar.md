@@ -2,3 +2,5 @@
 
 * [Home](/)
 * [PHP](php.md)
+* [Vagrant](vagrant.md)
+* [WordPress](Projects/wordpress.md)
